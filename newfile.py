@@ -1,2 +1,2 @@
-print("hi, this is newfile.py")
-print("i am now in branch2")
+print("hi, this is newfile.py in main branch")
+print("i am now in main")
